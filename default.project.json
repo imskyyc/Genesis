@@ -1,0 +1,16 @@
+{
+  "name": "Genesis",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "Genesis": {
+        "$path": "src/server",
+
+        "LICENSE": {
+          "$path": "LICENSE.lua"
+        }
+      }
+    }
+  }
+}
