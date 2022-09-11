@@ -11,6 +11,20 @@
           "$path": "LICENSE.lua"
         }
       }
+    },
+
+    "ReplicatedStorage": {
+      "Genesis": {
+        "$path": "src/shared"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Genesis": {
+          "$path": "src/client"
+        }
+      }
     }
   }
 }
